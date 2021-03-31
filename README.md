@@ -31,7 +31,7 @@ We also observe the ratings value of movies with its concern launching year and 
 
 ### Most Rated Genres | Findings
 We can visualize that drama genres are most in number and rated more than other movies genres.
-![ratings vs genres](https://user-images.githubusercontent.com/17668390/34288967-566db1ae-e71a-11e7-8092-0847ac5c4dd5.PNG)
+![ratings vs genres](Visualizations/1.png)
 <hr>
 
 Visualize in pie plot with percentile.

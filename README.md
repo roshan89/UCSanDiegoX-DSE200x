@@ -32,15 +32,12 @@ We also observe the ratings value of movies with its concern launching year and 
 ### Most Rated Genres | Findings
 We can visualize that drama genres are most in number and rated more than other movies genres.
 ![ratings vs genres](Visualizations/1.png)
-<hr>
 
 Visualize in pie plot with percentile.
 ![most frequent genres](Visualizations/2.png))
-<hr>
 
 Rating value of each movies with concern launching year. Also the average ratings of value in ratings columns.
 ![avg movie rating over time](Visualizations/4.png))
-<hr>
 
 In box plot we found,
 ![box plot of avg movie ratings](Visualizations/0.png))
